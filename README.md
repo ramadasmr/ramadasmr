@@ -5,6 +5,7 @@
 I'm a Technical Veteran with 15+ years of experience in Infrastructure and Production Operations for Technology Companies and their Clients. I love troubleshooting, performing root cause analysis, optimizing processes and make lives easier. I'm obsessed about quality even for small things and velocity at which we deliver.
 
 I'm a multidimensional thinker, passionate about building resilient systems and solving complex challenges.
+
 If you are not in mood today, spark a talk about Premier League Football or Conspiracy theories :)
 
 - 🔭 I’m currently working on: Site Reliability Engineering for Juniper's "AI for Networking" mission. 
