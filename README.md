@@ -8,11 +8,11 @@ I'm a multidimensional thinker, passionate about building resilient systems and 
 
 If you are not in mood today, spark a talk about Premier League Football or Conspiracy theories :)
 
-- 🔭 I’m currently working on: Site Reliability Engineering for Juniper's "AI for Networking" mission. 
-- 🌱 I’m learning: Everything possible that comes across to me in a day
-- 💬 Ask me about: Linux, Containers, Orchestration, Devops and Automation 
-- 🤔 I'm happy to collabrate on: Challenging Projects 
-- ⚡ Fun fact: I found myself surrounded by Opensource and I absolutely love it.
+🔭 I’m currently working on: Site Reliability Engineering for Juniper's "AI for Networking" mission. 
+🌱 I’m learning: Everything possible that comes across to me in a day
+💬 Ask me about: Linux, Containers, Orchestration, Devops and Automation 
+🤔 I'm happy to collabrate on: Challenging Projects 
+⚡ Fun fact: I found myself surrounded by Opensource and I absolutely love it.
 
 Anyday, There's nothing like being pampered by a soft breeze and the serenity of nature.
 
@@ -54,5 +54,5 @@ Not actively working on any ATM
 
 
 ## 📫 Contact
-- 📧 Email: [prem00kat@gmail.com](mailto:prem00kat@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/ramadasmr](https://www.linkedin.com/in/ramadasmr)
+📧 Email: [prem00kat@gmail.com](mailto:prem00kat@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/ramadasmr](https://www.linkedin.com/in/ramadasmr)
