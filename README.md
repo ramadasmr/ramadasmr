@@ -9,7 +9,7 @@ I'm a multidimensional thinker, passionate about building resilient systems and 
 If you are not in mood today, spark a talk about Premier League Football or Conspiracy theories :)
 
 - 🔭 I’m currently working on: Site Reliability Engineering for Juniper's "AI for Networking" mission. 
-- 💬 Ask me about: Linux, Containers, Orchestration, Devops and Automation 
+- 💬 Ask me about: Linux, Containers, Orchestration, Devops, SDN, Virtualization and Automation 
 - 🤔 I'm happy to collabrate on: Challenging Projects 
 - ⚡ Interesting fact: I found myself surrounded by Opensource and I absolutely love it.
 
