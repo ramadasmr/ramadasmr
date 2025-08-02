@@ -1,5 +1,5 @@
 
-# Hi there 👋    I'm Ramadas MR
+# Hi there 👋  I'm Ramadas MR
 
 ## 👨‍💻 About ME
 I'm a Technical Veteran with 15+ years of experience in Infrastructure and Production Operations for Technology Companies and their Clients. I love troubleshooting, performing root cause analysis, optimizing processes and make lives easier. I'm obsessed about quality even for small things and velocity at which we deliver.
@@ -46,11 +46,6 @@ Anyday, There's nothing like being pampered by a soft breeze and the serenity of
 
 ![Heat](https://img.shields.io/badge/OpenStack%20Heat-Orchestration-d73f3f?logo=openstack&logoColor=white)
 ![Juju](https://img.shields.io/badge/Juju-Model--Driven%20Ops-0095D5?logo=juju&logoColor=white)
-
-
-## 🚧 Current Projects
-Not actively working on any ATM
-
 
 ## 📫 Contact
 📧 Email: [prem00kat@gmail.com](mailto:prem00kat@gmail.com)  
