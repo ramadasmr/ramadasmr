@@ -2,15 +2,15 @@
 # Hi there 👋  I'm Ramadas MR
 
 ## 👨‍💻 About ME
-I'm a Technical Veteran with 15+ years of experience in Infrastructure and Production Operations for Technology Companies and their Clients. I love troubleshooting, performing root cause analysis, optimizing processes and make lives easier. I'm obsessed about quality even for small things and velocity at which we deliver.
+I'm a Technical Veteran with 15+ years of experience in Infrastructure and Production Operations for Technology Companies and their Clients. I love troubleshooting, performing root cause analysis, optimizing processes and to make lives easier. I'm driven by obsession about quality, even for small things and velocity at which we deliver.
 
 I'm a multidimensional thinker, passionate about building resilient systems and solving complex challenges.
 
 If you are not in mood today, spark a talk about Premier League Football or Conspiracy theories :)
 
-- 🔭 I’m currently working on: Site Reliability Engineering for Juniper's "AI for Networking" mission. 
-- 💬 Ask me about: Linux, Containers, Orchestration, Devops, SDN, Virtualization and Automation 
-- 🤔 I'm happy to collabrate on: Challenging Projects 
+- 🔭 I’m currently working on: Site Reliability Engineering for Juniper's "AI for Networking" mission.
+- 💬 Ask me about: Linux, Containers, Orchestration, Devops, SDN, Virtualization and Automation.
+- 🤔 I'm happy to collabrate on: Challenging Projects ;) 
 - ⚡ Interesting fact: I found myself surrounded by Opensource and I absolutely love it.
 
 Anyday, There's nothing like being pampered by a soft breeze and the serenity of nature.
