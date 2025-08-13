@@ -10,7 +10,7 @@ If you are not in mood today, spark a talk about Premier League Football or Cons
 
 - 🔭 I’m currently working on: Site Reliability Engineering for Juniper's "AI for Networking" mission.
 - 💬 Ask me about: Linux, Containers, Orchestration, Devops, SDN, Virtualization and Automation.
-- 🤔 I'm happy to collabrate on: Challenging Projects ;) 
+- 🤔 I'm happy to collabrate on: Challenging Projects ;)
 - ⚡ Interesting fact: I found myself surrounded by Opensource and I absolutely love it.
 
 Anyday, There's nothing like being pampered by a soft breeze and the serenity of nature.
