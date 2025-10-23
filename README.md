@@ -1,7 +1,6 @@
 
 ![ProfilePicture](images/banner.png)
 
-## 👨‍💻 About ME
 I'm a Technical Veteran with 15+ years of experience in Infrastructure and Production Operations for Technology Companies and their Clients. I love troubleshooting, performing root cause analysis, optimizing processes and to make lives easier. I'm driven by obsession about quality, even for small things and velocity at which we deliver.
 
 I'm a multidimensional thinker, passionate about building resilient systems and solving complex challenges.
