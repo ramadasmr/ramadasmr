@@ -47,6 +47,4 @@ Anyday, There's nothing like being pampered by a soft breeze and the serenity of
 ![Juju](https://img.shields.io/badge/Juju-Model--Driven%20Ops-0095D5?logo=juju&logoColor=white)
 
 ## 📫 Contact
-📧 Email: [prem00kat@gmail.com](mailto:prem00kat@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/ramadasmr](https://www.linkedin.com/in/ramadasmr)  
-📈 Website: [https://ramadasmr.github.io](https://ramadasmr.github.io) 
+📧 Email: [prem00kat@gmail.com](mailto:prem00kat@gmail.com) | 🔗 LinkedIn: [linkedin.com/in/ramadasmr](https://www.linkedin.com/in/ramadasmr) | 📈 Website: [https://ramadasmr.github.io](https://ramadasmr.github.io)   
